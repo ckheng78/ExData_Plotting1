@@ -1,3 +1,18 @@
+## Usage Instruction (2 Apr 2016)
+
+Please ensure the dataset resides in the same folder as the R files before attempting to execute the codes. All four R codes expects the dataset file to be named as "household_power_consumption.txt". If the file cannot be found, all four R codes will not run and will terminate with an error.
+
+## Steps to run the R codes
+
+* Download the four R source codes
+* Download the dataset
+* Ensure all R codes and dataset resides in the same folder
+* Start R editor or R studio, whichever is preferred
+* Ensure the current working directory is set to the folder where both the R files and dataset are located
+* Source the R files
+* Run the function. As an example, ff plot1.R is sourced, run plot1()
+* Once plot1() (as an example) ran to completion, plot1.png will be generated on the same folder as plot1.R
+
 ## Introduction
 
 This assignment uses data from
